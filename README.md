@@ -14,7 +14,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
-| 🚗 [E-marketplace EDA](https://github.com/katiehuangx/data-engineering/tree/main/Uber%20Project) | Nov 2023 | Excel Formulas, pivot tables | Explored a company's database to get insights from its 2015 A/B tests. |
+| 🚗 [E-marketplace EDA](https://github.com/zefrios/Portfolio/blob/26eb6beb46bae12a0957d05ddbb948f51484304e/Excel/AB_Testing_EDA) | Nov 2023 | Excel Formulas, pivot tables | Explored a company's database to get insights from its 2015 A/B tests. |
 
 ***
 
