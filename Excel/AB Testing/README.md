@@ -58,3 +58,28 @@ By using pivot tables, we can arrange *Control version* and *Improved* cells as 
 
 **So to answer Q3, there is a slight practical difference between the versions in the test, but not significative enough to make a business decision. Further testing would be recommended.**
 
+### Question 4: Display here a table which shows the conversion rates (conversions/visits) of every version of the A/B Test 3, per week.  
+For this, we need to calculate an extra column to have the conversion rate per day for both types of tests and then we can use pivot tables to group and display the data per week.  
+
+![Excel_Q4_1](https://github.com/zefrios/data-analyst-portfolio_cesar-frias/assets/83305620/e0272c20-ef2e-4fa0-b67d-eb5fc8fddc04)
+
+![Excel_Q4_2](https://github.com/zefrios/data-analyst-portfolio_cesar-frias/assets/83305620/9675f0a3-98f8-4255-93df-514453c7304c)
+
+### Question 5: 
+**When we do A/B testing we want to make sure that there is always a reference version. That way we compare the results between the test version and this reference version (control version), and conclude on the best version.
+a) In the whole data set, count the number of test versions we tried out that do not respect the A/B testing rule mentioned above.**  
+**b) Display these test versions.**  
+
+To answer this, we must create a helper column in our dataset. Then we can use a set of nested IF(COUNTIF()) to find which tests have a control version. For example this is the formula used in the first row of the helper column:  
+```
+=IF(COUNTIFS($B$2:$B$3874; $B2; $C$2:$C$3874; "*Control version*") > 0; "Control"; "No Control")
+```
+![Excel_Q5_1](https://github.com/zefrios/data-analyst-portfolio_cesar-frias/assets/83305620/4a5ada51-f2f4-41e6-9c87-e9ee20d771e4)
+
+Once we have our helper column, we can use pivot tables to filter out the tests with no control version. Choosing the table to count values for test versions, the final display looks like this:  
+
+![Excel_Q5_2](https://github.com/zefrios/data-analyst-portfolio_cesar-frias/assets/83305620/d706f41a-be83-4b8a-a1d0-ccd6e36b937f)
+
+
+
+
