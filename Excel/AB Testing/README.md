@@ -66,7 +66,8 @@ For this, we need to calculate an extra column to have the conversion rate per d
 ![Excel_Q4_2](https://github.com/zefrios/data-analyst-portfolio_cesar-frias/assets/83305620/9675f0a3-98f8-4255-93df-514453c7304c)
 
 ### Question 5: 
-**When we do A/B testing we want to make sure that there is always a reference version. That way we compare the results between the test version and this reference version (control version), and conclude on the best version.
+**When we do A/B testing we want to make sure that there is always a reference version. That way we compare the results between the test version and this reference version (control version), and conclude on the best version.  
+
 a) In the whole data set, count the number of test versions we tried out that do not respect the A/B testing rule mentioned above.**  
 **b) Display these test versions.**  
 
