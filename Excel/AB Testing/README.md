@@ -50,7 +50,7 @@ To answer this, filtering the *Data visits* table to only display AB Test 3 and 
 
 ![Excel_Q3_1](https://github.com/zefrios/data-analyst-portfolio_cesar-frias/assets/83305620/300fd739-6a9d-43dd-aeb3-265f72c26f5f)
 
-By using pivot tables, we can arrange *Control version* and *Improved* cells as columns, which allows us to easily calculate the Total Visits and the Total Number of Checkouts per test version and thus, the conversion rates for both the *Improved* test and the *Control* test:  
+By using pivot tables, we can arrange *Control version* and *Improved* cells as columns, which allows us to easily calculate the Total Visits and the Total Number of Checkouts per test version and thus, calculate the conversion rates for both the *Improved* test and the *Control* test:  
 
 ![image](https://github.com/zefrios/data-analyst-portfolio_cesar-frias/assets/83305620/21e9dcab-631c-43d4-ab55-a8956aeeea4a)
 
