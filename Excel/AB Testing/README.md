@@ -4,7 +4,7 @@ Company A tests their applicants on their Excel skills and asks them to answer 5
 
 ### Data buyers
 
-Total Rows: 3874
+Total Rows: 3874  
 Total Columns: 7
 
 ![Excel_DataBuyers](https://github.com/zefrios/data-analyst-portfolio_cesar-frias/assets/83305620/5a36da00-0a8a-4ad7-98b5-7f3a8e33bf62)
