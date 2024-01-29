@@ -1,4 +1,4 @@
-# A/B Testing EDA
+# A/B Testing Dataset Excel Skilltest
 ## About the Data
 Company A tests their applicants on their Excel skills and asks them to answer 5 questions. The dataset consists of three tables named 'Data buyers', 'Data visits', and 'Matching'.
 
