@@ -21,6 +21,7 @@ Total Columns: 2
 
 ![Excel_Matching](https://github.com/zefrios/data-analyst-portfolio_cesar-frias/assets/83305620/420de7b0-ffd1-4e05-830d-81a40b12a42f)
 
+## Questions
 
 ### Question 1: Using the information in the matching sheet, match the Domain to each Category for each line.
 By using a VLOOKUP formula as follows, we can get the desired result:  
