@@ -78,7 +78,7 @@ To answer this, we must create a helper column in our dataset. Then we can use a
 ```
 ![Excel_Q5_1](https://github.com/zefrios/data-analyst-portfolio_cesar-frias/assets/83305620/4a5ada51-f2f4-41e6-9c87-e9ee20d771e4)
 
-Once we have our helper column, we can use pivot tables to filter out the tests with no control version. Choosing the table to count values for test versions, the final display looks like this:  
+Once we have our helper column, we can use pivot tables to filter out the tests with a control version. By choosing the value fields to count for test versions, we get the desired result and the final display looks like this:  
 
 ![Excel_Q5_2](https://github.com/zefrios/data-analyst-portfolio_cesar-frias/assets/83305620/d706f41a-be83-4b8a-a1d0-ccd6e36b937f)
 
