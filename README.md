@@ -5,7 +5,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 ## Table of Contents
 - [Excel](#Excel)
 - [Python](#python)
-- [R/Shiny](#r/shiny)
+- [R/Shiny](#rshiny)
 
 
 # Excel
