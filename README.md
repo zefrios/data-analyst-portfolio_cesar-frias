@@ -10,9 +10,9 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 # Excel
 
-| Project Link | Completion Date | Tools | Project Description | 
+| Project Link | Project Description | Tools | 
 |---|---|---|---|
-|[AB Tests Analysis](https://github.com/zefrios/Excel/blob/7d52c193344cef53e45ace421d1c92678099ce18/README.md) | Nov 2023 | Excel formulas, pivot tables | Explored a company's database to get insights from its 2015 A/B tests. |
+|[AB Tests Analysis](https://github.com/zefrios/Excel/blob/7d52c193344cef53e45ace421d1c92678099ce18/README.md) | Explored a company's database to get insights from its 2015 A/B tests.Excel formulas, pivot tables | Excel formulas, pivot tables |
 
 ***
 
