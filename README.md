@@ -23,7 +23,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 |---|---|---|---|
 | 👩🏻‍💻 [LinkedIn WebScrapper I](https://github.com/zefrios/Python/tree/237d01fdf32e81287fabf90663237770b0ada4c1/LinkedIn%20Webscrapper%20I%20) | Data Mining | This is a Google Chrome webscrapper that works with the unsigned LinkedIn job search site for Marketing Automation jobs in Paris, France. | selenium, pandas | 
 | 📺 [LinkedIn WebScrapper II](https://github.com/zefrios/Python/blob/00ae963c0f73b9e8817d701f9899a4618ddcc766/LinkedIn%20Webscrapper%20II%3A%20EDA%20/README.md) |   Data Wrangling & EDA | This follow-up works with the data extracted from the first webscrapping, uses natural language processing to distinguish English and French languages. It identifies the most frequent keywords in both languages and visualizes them through wordclouds.  | pandas, spacy, re, collections, langdetect, requests, certifi |   
-| ⛽️ [Spotify's API Calls]() | Data Wrangling & EDA | Program that makes calls to Spotify's API. |  pandas, dotenv, requests, base64, os |   
+| ⛽️ [Spotify's API Calls](https://github.com/zefrios/Python/blob/main/Spotify_APIcalls/SpotifyTokenRequest.ipynb) | Data Wrangling & EDA | Program that makes calls to Spotify's API with Python. |  pandas, dotenv, requests, base64, os |   
 
 
 ***
@@ -31,7 +31,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Project Description | Libraries |    
 |---|---|---|
-| 👩🏻‍💻 [Spotify Artist and Song Suggester App](https://github.com/zefrios/RShiny/blob/29623bc0c81f05c15c3983a7b232b8e3b474748c/Spotify_ArtistSuggestionsApp/Notebook_ShinyApp.ipynb) | This project creates the ui and server codes that allow us to build our Shiny app. By doing, this we can leverage the data obtained from Spotify's API and display it | shiny. reticulate, dplyr, DT | 
+| 👩🏻‍💻 [Spotify Artist and Song Suggester App](https://github.com/zefrios/RShiny/blob/29623bc0c81f05c15c3983a7b232b8e3b474748c/Spotify_ArtistSuggestionsApp/Notebook_ShinyApp.ipynb) | This project creates the ui and server codes that allow us to build our Shiny app. By doing, this we can leverage the data obtained from Spotify's API and display it. | shiny. reticulate, dplyr, DT | 
 
 
 
