@@ -6,6 +6,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 - [Excel](#Excel)
 - [Python](#python)
 - [R/Shiny](#rshiny)
+- [SQL](#SQL)
 
 
 # Excel
@@ -36,3 +37,9 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 
 ***
+# SQL
+
+| Project Link | Project Description | Libraries |    
+|---|---|---|
+| 👩🏻‍💻 [Spotify API EDA: Black Sabbath](https://github.com/zefrios/SQL/blob/main/Black%20Sabbath%20EDA/README.md) | This project obtains data from Spotify's API and proceeds to solve a mini use case to answer some questions using SQL| SQLite | 
+
