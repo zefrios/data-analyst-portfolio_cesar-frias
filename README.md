@@ -41,5 +41,5 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Project Description | Libraries |    
 |---|---|---|
-| 👩🏻‍💻 [Spotify API EDA: Black Sabbath](https://github.com/zefrios/SQL/blob/main/Black%20Sabbath%20EDA/README.md) | This project obtains data from Spotify's API and proceeds to solve a mini use case to answer some questions using SQL| SQLite | 
+| 👩🏻‍💻 [Spotify API EDA: Black Sabbath](https://github.com/zefrios/SQL/blob/main/Black%20Sabbath%20EDA/README.md) | This project obtains data from Spotify's API and explores the resulting table using SQL. | SQLite | 
 
