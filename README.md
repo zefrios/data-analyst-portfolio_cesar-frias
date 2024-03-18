@@ -32,7 +32,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Project Description | Libraries |    
 |---|---|---|
-| 👩🏻‍💻 [Spotify Artist and Song Suggester App](https://github.com/zefrios/RShiny/blob/83e170fa25445a5f6397d3cd46b3bee6b19bd6e7/Spotify_ArtistSuggestionsApp/Notebook_ShinyApp.ipynb) | This project creates the ui and server codes that allow us to build our Shiny app. By doing, this we can leverage the data obtained from Spotify's API and display it. | shiny. reticulate, dplyr, DT | 
+| 👩🏻‍💻 [Spotify Artist and Song Suggester App](https://github.com/zefrios/RShiny/blob/ec5b4dd09eafbb679ff45a8c5b513464d564556b/Spotify_ArtistSuggestionsApp/Notebook_ShinyApp.ipynb) | This project creates the ui and server codes that allow us to build our Shiny app. By doing, this we can leverage the data obtained from Spotify's API and display it. | shiny. reticulate, dplyr, DT | 
 
 
 
