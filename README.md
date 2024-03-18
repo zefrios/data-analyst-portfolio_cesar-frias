@@ -41,5 +41,5 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Project Description | Area |    
 |---|---|---|
-| 👩🏻‍💻 [Spotify API EDA: Black Sabbath](https://github.com/zefrios/SQL/blob/main/Black%20Sabbath%20EDA/README.md) (In Process)| This project obtains data from Spotify's API and answers questions regarding track data from the band Black Sabbath. Insights about average track qualities, such as loudness, danceability, etc. are obtained for their most popular tracks on different markets. | Music Analysis | 
+| 👩🏻‍💻 [Spotify API EDA: Black Sabbath](https://github.com/zefrios/SQL/blob/main/Black%20Sabbath%20EDA/README.md) | This project obtains data from Spotify's API and answers questions regarding track data from the band Black Sabbath. Insights about average track qualities, such as loudness, danceability, etc. are obtained for their most popular tracks on different markets. | Music Analysis | 
 
