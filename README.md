@@ -29,7 +29,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Project Description | Area |    
 |---|---|---|
-| 👩🏻‍💻 [Maven Analytics Coffee Challenge]() | Dashboard produced to solve the use case proposed by Maven Analytics | Small and medium size companies | 
+| 👩🏻‍💻 [Maven Analytics Coffee Challenge](Maven Analytics Coffee Challenge/README.md) | Dashboard produced to solve the use case proposed by Maven Analytics | Small and medium size companies | 
 
 ***
 
