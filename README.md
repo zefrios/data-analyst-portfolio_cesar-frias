@@ -5,7 +5,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 ## Table of Contents
 - [Excel](#Excel)
 - [SQL](#SQL)
-- [Power BI](#Power_BI)
+- [Power BI](#Power-BI)
 - [Python](#python)
 - [R/Shiny](#rshiny)
 
@@ -25,7 +25,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | 👩🏻‍💻 [Spotify API, Part III: Black Sabbath EDA](https://github.com/zefrios/SQL/blob/b0c18f1bb41104a08b457e7e347c9d08785f355c/Black%20Sabbath%20EDA/README.md) | This project obtains data from Spotify's API and answers questions regarding track data from the band Black Sabbath. Insights about average track qualities, such as loudness, danceability, etc. are obtained for their most popular tracks on different markets. | Music Analysis | 
 
 ***
-# Power BI
+# Power-BI
 
 | Project Link | Project Description | Area |    
 |---|---|---|
