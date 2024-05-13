@@ -29,7 +29,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Project Description | Area |    
 |---|---|---|
-| 👩🏻‍💻 [Maven Analytics Coffee Challenge](https://github.com/zefrios/Power-BI/blob/ad41a5dbf73d0a4f4f11013ccbfcd9dc3d40fc43/Maven%20Analytics%20Coffee%20Challenge/README.md) | Dashboard produced to solve the use case proposed by Maven Analytics | Small and medium size companies | 
+| 👩🏻‍💻 [Maven Analytics Coffee Challenge](Power-BI/Maven_Coffee_Challenge/README.md) | Dashboard produced to solve the use case proposed by Maven Analytics | Small and medium size companies | 
 
 ***
 
