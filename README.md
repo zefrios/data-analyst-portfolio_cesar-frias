@@ -15,7 +15,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Project Description | Tools | 
 |---|---|---|
-|[AB Tests Analysis](https://github.com/zefrios/Excel/blob/7d52c193344cef53e45ace421d1c92678099ce18/README.md) | Explored a company's database to get insights from its 2015 A/B tests. | Excel formulas, pivot tables |
+|[AB Tests Analysis](Excel/AB_Tests_Analysis/README.md) | Explored a company's database to get insights from its 2015 A/B tests. | Excel formulas, pivot tables |
 
 ***
 # SQL
