@@ -38,7 +38,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
 | 👩🏻‍💻 [LinkedIn WebScrapper I](Python/LinkedIn_Webscrapper_I/README.md) | Data Mining | This is a Google Chrome webscrapper that works with the unsigned LinkedIn job search site for Marketing Automation jobs in Paris, France. | selenium, pandas | 
-| 📺 [LinkedIn WebScrapper II](https://github.com/zefrios/Python/blob/00ae963c0f73b9e8817d701f9899a4618ddcc766/LinkedIn%20Webscrapper%20II%3A%20EDA%20/README.md) |   Data Wrangling & EDA | This follow-up works with the data extracted from the first webscrapping, uses natural language processing to distinguish English and French languages. It identifies the most frequent keywords in both languages and visualizes them through wordclouds.  | pandas, spacy, re, collections, langdetect, requests, certifi |   
+| 📺 [LinkedIn WebScrapper II](Python/LinkedIn_Webscrapper_II_EDA/README.md) |   Data Wrangling & EDA | This follow-up works with the data extracted from the first webscrapping, uses natural language processing to distinguish English and French languages. It identifies the most frequent keywords in both languages and visualizes them through wordclouds.  | pandas, spacy, re, collections, langdetect, requests, certifi |   
 | ⛽️ [Spotify API, Part I: API Calls](Python/Spotify_API_Calls/SpotifyTokenRequest.ipynb) | Data Wrangling & EDA | Program that makes calls to Spotify's API with Python. |  pandas, dotenv, requests, base64, os |   
 
 ***
